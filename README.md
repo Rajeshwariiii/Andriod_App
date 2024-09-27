@@ -4,23 +4,23 @@ Android is the ideal platform for developing android attendance application due 
 It is a system developed in android studio through which faculty can register the number of students in a particular, class then register the number of subjects in that class and can mark the attendance of the students.
 This is an Android-based attendance management system developed using Java and Android Studio. The application is designed to assist educational institutions with efficient tracking of student attendance. It allows faculty and administrators to manage students, subjects, and attendance records within the app.
 
-Features
-Admin Module
-Add and manage students.
-Add and manage faculty and teachers.
-View student attendance details.
-Track attendance of individual students.
+Features of 
+Admin Module are : 
+Add and manage students,
+Add and manage faculty and teachers,
+View student attendance details,
+Track attendance of individual students,
 
-Teacher Module
-Mark attendance class-wise.
-Add new students and update their details.
-View and edit attendance records.
-Save subject-specific notes.
+Teacher Module features are: 
+Mark attendance class-wise,
+Add new students and update their details,
+View and edit attendance records,
+Save subject-specific notes,
 Simple and intuitive interface.
 
-Requirements
-Android Studio (latest version)
-Java Development Kit (JDK)
+The Requirements for running this project smoothly on your system are: 
+Android Studio (latest version),
+Java Development Kit (JDK) and 
 Internet connection
 
 Admin Credentials
